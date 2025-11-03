@@ -15,7 +15,7 @@ Install the required packages:
 ```
 pip install -r requirements.txt
 ```
-Data needed to run the scripts: 
+Data required to run the scripts: 
 * extract_patchesNP.py and extract_patchesPP.py: a slide of the ODS2 or ODS3 datasets, Annotated ODS2 and Annotated ODS3 
 * mosaic_image.py: DDS1 dataset  
 
@@ -77,4 +77,5 @@ The following structures are expected in the scripts.
 | | |-- S01TR1T022PP1.bmp
 | | |-- ...
 | |-- MASK
+
 ```
